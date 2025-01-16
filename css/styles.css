@@ -1,0 +1,30 @@
+/*Text-shadow effect!*/
+h1 {
+    text-shadow: 2px 2px;
+}
+h2 {
+    font-size: 30px;
+    text-shadow: 2px 2px red;
+}
+h3 {
+    font-size: 30px;
+    text-shadow: 2px 5px 5px red;
+}
+.Example-1 {
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #000000;
+}
+.Example-2 {
+    font-size: 30px;
+    text-shadow: 0 0 3px #FF0000;
+}
+.Example-3 {
+    font-size: 30px;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.Example-4 {
+    color: white;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px black, 0 0 20px blue, 0 0 50px darkblue;
+}
